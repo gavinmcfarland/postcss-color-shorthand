@@ -48,6 +48,8 @@
     "postcss",
     "css",
     "postcss-plugin",
-    "color background-color border-color"
+    "color",
+    "background-color",
+    "border-color"
   ]
 }
